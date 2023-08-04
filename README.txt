@@ -1,0 +1,3 @@
+This folder contains some template files to help you get started on your project (Project_Template_Part[1-3].ipynb). It also includes some examples (Project_Example_Part[1-3].ipynb), which show how the steps in the template could be complete.
+
+Note that these files as provided as-is as a resource, to help you get started. They are *not* exhaustive, nor should they be considered a formula for full gredit on the project. They do not, for example, address the novelty criteria of the project. You may also benefit from additional libraries that are not showcased here, such as sklearn's Pipeline library.
